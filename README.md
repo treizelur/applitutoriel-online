@@ -1,8 +1,6 @@
 # applitutoriel-online
 
-## présenation
-
-Il s'agit d'un packaging full spa de l'application TUTORIEL, basée sur HornetJs 5.1.0 avec des services page bouchoné afin de fonctionner sans avoir un back office.
+Il s'agit d'un packaging full spa de l'application TUTORIEL, basée sur HornetJs 5.1.0 avec des services page bouchonnés afin de fonctionner sans avoir un back office.
 
 
 __Cas fonctionnels__
@@ -20,3 +18,9 @@ Chaque service page étant, toutes modifications ne sera pas sauvegarder et les 
 ## URL
 
 https://diplomatiegouvfr.github.io/applitutoriel-online
+
+## Licence
+
+`applitutoriel-online` est sous [licence cecill 2.1](./LICENSE.md).
+
+Site web : [http://www.cecill.info](http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html)
