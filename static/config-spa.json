@@ -17,7 +17,7 @@
     "host": "http://localhost/",
     "name": "applitutoriel-service"
   },
-  "themeName": "hornet-themes-intranet",
+  "themeName": "hornet-themes",
   "localeI18n": {
     "locale": "fr-FR",
     "lang": "fr"
@@ -43,5 +43,5 @@
       }
     ]
   },
-  "themeUrl": "/applitutoriel-online/static/hornet-themes-intranet"
+  "themeUrl": "/applitutoriel-online/static/hornet-themes"
 }
